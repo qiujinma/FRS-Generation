@@ -67,7 +67,7 @@ FRS-Generation/
 │   │   │   ├── FRS_DOF3.csv
 │   │   │   ├── FRS_DOF4.csv
 │   │   │   ├── FRS_DOF5.csv
-│   │   └── README.md
+│   │   └── READ_ME.md
 │
 └── docs/
 │   ├── methodology.md
