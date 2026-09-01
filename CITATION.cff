@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+
+message: "If you use this software, please cite the software and the relevant publications listed below."
+
+title: "Floor Response Spectrum Generation"
+
+type: software
+
+authors:
+
+* family-names: "Ma"
+  given-names: "Qiujin"
+
+version: "1.0.0"
+
+keywords:
+
+* "floor response spectrum"
+* "structural dynamics"
+* "nonstructural components"
+* "random vibration theory"
+
+references:
+
+* type: article
+  authors:
+
+  * family-names: "Ma"
+    given-names: "Qiujin"
+  * family-names: "Kwon"
+    given-names: "Oh-Sung"
+    title: "A direct derivation method for acceleration and displacement floor response spectra"
+    journal: "Engineering Structures"
+    volume: 337
+    year: 2025
+    doi: "10.1016/j.engstruct.2025.120480"
+    issn: "0141-0296"
+    notes: "Article 120480"
+
+* type: article
+  authors:
+
+  * family-names: "Ma"
+    given-names: "Qiujin"
+  * family-names: "Kwon"
+    given-names: "Oh-Sung"
+    title: "A direct floor-response spectrum generation method for multiple degree-of-freedom structures"
+    journal: "Engineering Structures"
+    volume: 356
+    year: 2026
+    doi: "10.1016/j.engstruct.2026.122426"
+    issn: "0141-0296"
+    notes: "Part B; Article 122426"
